@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - Grandmaw's Toll House Cookies</title>
+    <style>
+        body { font-family: Arial; margin: 40px; line-height: 1.6; }
+        h1 { color: #8B4513; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> December 7, 2025</p>
+    
+    <h2>Overview</h2>
+    <p>Grandmaw's Toll House Cookies is a free recipe scaling application. This privacy policy explains our practices regarding data collection and use.</p>
+    
+    <h2>Data Collection</h2>
+    <p>This app does NOT collect, store, or transmit any personal information. The app:</p>
+    <ul>
+        <li>Does not require login or account creation</li>
+        <li>Does not track user behavior</li>
+        <li>Does not collect location data</li>
+        <li>Does not access contacts, photos, or files</li>
+        <li>Does not use cookies or analytics</li>
+        <li>Does not send data to external servers</li>
+    </ul>
+    
+    <h2>Functionality</h2>
+    <p>All recipe scaling calculations are performed locally on your device. No data is sent to any external servers or third parties.</p>
+    
+    <h2>Contact</h2>
+    <p>For questions, contact: bruma.creative@example.com</p>
+</body>
+</html>
